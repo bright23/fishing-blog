@@ -1,0 +1,21 @@
+📝 記事の追加方法 - クイックガイド
+
+🌐 公開記事（public フォルダ）
+1. public フォルダに HTML ファイルを作成
+2. テンプレートをコピーして編集
+3. index.html にブログカードを追加
+
+🔒 非公開記事（private フォルダ）  
+1. private フォルダに Markdown ファイルを作成
+2. 下書きや個人メモとして使用
+3. 完成したら public に移動
+
+📁 ファイル名例:
+- 公開: 2024-12-25-fishing-trip.html
+- 非公開: 2024-12-25-new-idea-draft.md
+
+🖼️ 画像:
+- 絵文字: <div class="blog-image">🎣</div>
+- 画像: style="background-image: url('画像パス')"
+
+詳しくは HOW_TO_ADD_POSTS.md を参照してください。
